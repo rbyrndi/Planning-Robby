@@ -1,0 +1,3 @@
+Robby planning
+1. Menguasai bahasa pemrograman php native dan laravel dalam 1 tahun
+2. konsisten belajar setiap hari minimal 1jam/hari
